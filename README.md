@@ -1,6 +1,8 @@
 # Compressor
 A small utility that allows you to compress an entire addon folder into a single file.
 
+[Do you have any questions? Ask them in our discord!](https://discord.gg/HspPfVkHGh)
+
 <h3>⚠️ Keep in mind that the server and client files will be in the same file, which means that if your server gets hacked, people will get the server source code as well. So you may want to use a obsufication just in case.</h3>
 
 ## How to use
